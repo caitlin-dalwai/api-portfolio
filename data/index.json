@@ -1,0 +1,142 @@
+{
+  "aboutMe": "  I am a people's person and present myself in a manner which makes others comfortable around me. I am a problem solver which emphasizes my drive to find a solution to any problem and do so with patience and understanding. I am able to understand that everyone has a different perspective of things and I am able to agree to disagree. This helps me to be a team player and work together with others in order to achieve an end goal. I am responsible and I make sure that if I am doing something, to do it to the best of my ability. I am a quick thinker and I am able to learn and absorb information efficiently.",
+  "aboutImg":"https://caitlin-dalwai.github.io/port-img/img/portfolio%20img%201.png",
+  "education": [
+    {
+      "qualif": "MATRIC CERTIFICATE",
+      "place": "Rustenburg Girls High School",
+      "duraction": "2018-2022",
+      "details": "Contact n.o- 021 686 4066",
+
+      "subjects": "Physical Science, French, Biology and pure Mathematics",
+      "extra": "Member of Chamber choir( the touring choir ) Hockey and swimming"
+    },
+    {
+      "qualif": "VOICE LESSONS",
+      "place": "The School of Rock-Claremont",
+      "duraction": "Sept 2018 - December 2023",
+      "details": "Contact n.o- 021 671 9580",
+
+      "acts": "Vocal lessons once a week",
+      "acts2": "Lead singer in band which performed at V&A Waterfront and at GrandWest Roxy Revue",
+      "acts3": "Wrote and recorded my own song",
+      "acts4": "Learnt piano and ukulele"
+    },
+    {
+      "qualif": "CODING",
+      "place": "Life Choices Academy",
+      "duraction": "April 2024 - Current",
+      "details": "Contact n.o- 021 696 4157",
+
+      "subjects": "Have learnt how to build webpages regarding frontend and backend. During my duration here I've obtained the skill to use CSS, HTML, GIT, JavaScript, Vue,js and bootstrap.",
+      "extra": "This course also has a self development program which has helped me grow immensely"
+    }
+  ],
+  "workExp": [
+    {
+      "placeOfWork": "The Tangram Durbanville Hills",
+      "year": "March 2023 - April 2024",
+      "description": "WAITRESSING:",
+      "details":"Dirk Steyn Email: DCSteyn@distell.co.za",
+      "acts": "Interacting with guests",
+      "acts2": "Learning the menu",
+      "acts3": "Pilot system",
+      "acts4":"Winery knowledge"
+    },
+    {
+        "placeOfWork": "CNK TRANSPORT",
+        "year": "2020-2022",
+        "description": "ADMIN",
+        "details":"Contact n.o-061 416 0636",
+        "acts": "Data capturing Invoicing of accounts",
+        "acts2": "Communicating with the clients on phone and via email",
+        "acts3": "Assessing the budget of the company",
+        "acts4":"Made bookings into the port for trucks"
+      }
+  ],
+  "testimonials":[
+    {
+        "name":"Masoodah",
+        "position":"Life Choices Academy Peer",
+        "message":"It is my pleasure to write a reference to Caitlin. Her personality shines through in her interactions with anyone, always offering support and encouragement with a genuine warmth that uplifts the team. Caitlin's combination of diligence and kindness makes her the perfect candidate for any organization to have her on board.",
+        "image":"https://caitlin-dalwai.github.io/img-testi/img/masoodah%201.png"
+    },
+    {
+        "name":"Candice",
+        "position":"Life Choices Academy Peer",
+        "message":"Learning and working belong side Caitlin has been nothing but joy. She is such a sweet, hardworking ,outgoing and open person. Caitlin has such an welcoming aura around her.when it comes to coding, all I cans ay that she always gives it her all. Never backing down when stumbles into a problem and that is one of her may charms. Caitlin always produces excellent work due to her always doing her work whole heartly.She is an amazing team player and can get along with pretty much anyone. If a hard-working dedicated and problem-solver you're needing, Caitlin would most definitely be my top choice.",
+        "image":"https://caitlin-dalwai.github.io/img-testi/img/cand%201.png"
+    },
+    {
+        "name":"Nikki",
+        "position":"Life Choices Academy Peer",
+        "message":"Caitlins ability to grasp complex technical concepts swiftly and apply them effectively in practical scenarios is truly impressive. Moreover, Caitlin is an excellent collaborator, always willing to share their knowledge and expertise to drive team success. Their communication skills are top-notch, enabling seamless coordination and alignment within cross-functional teams.",
+        "image":"https://caitlin-dalwai.github.io/img-testi/img/niki%201.png"
+    },
+    {
+        "name":"Tyra",
+        "position":"Life Choices Academy Peer",
+        "message":"Caitlin is a bright and extremely dedicated individual that puts 100% into everything she does. She is optimistic and is a level-headed thinker. Caitlin being the warm, bubbly person she is makes it easy for her to be able to work with many different personalities and it is a great privilege to be able to have worked with her.",
+        "image":"https://caitlin-dalwai.github.io/img-testi/img/tyra%201.png"
+    },
+    {
+        "name":"Nazneem",
+        "position":"Life Choices Academy Peer",
+        "message":"Having worked closely with Caitlin on various projects, I wholeheartedly recommend them for any role within your esteemed tech company. Caitlin possesses an exceptional blend of technical expertise, innovative thinking, and a strong work ethic that consistently delivers outstanding results.",
+        "image":"https://caitlin-dalwai.github.io/img-testi/img/naz%201.png"
+    },
+    {
+        "name":"Matthew",
+        "position":"Life Choices Academy Lecturer",
+        "message":"I have had the pleasure of teaching and mentoring Caitlin in our coding courses, and it is with great enthusiasm that I recommend them to your esteemed coding company. Throughout their time in my classes, Caitlin consistently demonstrated a remarkable aptitude for coding and a genuine passion for technology. Their strong foundation in programming principles, coupled with their eagerness to learn and explore new concepts, sets them apart as a standout candidate for any coding role.",
+        "image":"https://caitlin-dalwai.github.io/img-testi/img/IMG_8230%20(1)%201.png"
+    }
+],
+
+"projects":[
+        {  
+            "name":"Calculator",
+            "github":"https://github.com/caitlin-dalwai/Calculator-JS.git",
+            "vercel":"https://calculator-js-pearl.vercel.app/",
+            "description":"A simple calculator built using JavaScript, HTML, and CSS. One of the first projects I used javaScript in",
+            "image":""
+        },
+        {  
+            "name":"BMI Calculator",
+            "github":"https://github.com/caitlin-dalwai/BMI-calculator.git",
+            "vercel":"https://bmi-calculator-omega-lilac.vercel.app/",
+            "description":"A BMI calculator built using HTML, CSS and javaScript to calculate a persons BMI result",
+            "image":"https://caitlin-dalwai.github.io/img-/image%201%20(3).png"
+        },
+        {  
+            "name":"Temperature Converter",
+            "github":"https://github.com/caitlin-dalwai/Temperature.git",
+            "vercel":"https://temperature-mocha.vercel.app/",
+            "description":"A temperature converter built using HTML, CSS and javaScript to convert celcius to fahrenheit",
+            "image":"https://caitlin-dalwai.github.io/img-/image%203%20(1).png"
+        },
+        {  
+            "name":"Portfolio Project",
+            "github":"https://github.com/caitlin-dalwai/Bootstrap-Project.git",
+            "vercel":"https://bootstrap-project-drab.vercel.app/index.html",
+            "description":"My first project at Life Choices Academy. This project was built using HTML, CSS and Bootstrap",
+            "image":"https://caitlin-dalwai.github.io/img-/image%204.png"
+        },
+       
+        {  
+            "name":"Swegga Project",
+            "github":"https://github.com/caitlin-dalwai/swegga.git",
+            "vercel":"https://swegga-tau.vercel.app/",
+            "description":"This is a task where I replicated a webpage from scratch. This project is built using HTML, CSS and javaScript",
+            "image":"https://caitlin-dalwai.github.io/img-/image%206.png"
+        },
+        {  
+            "name":"E-commerce Website",
+            "github":"https://github.com/caitlin-dalwai/eCom-.git",
+            "vercel":"https://e-com-seven-zeta.vercel.app/HTML/admin.html",
+            "description":"This project is built using HTML, CSS and javascript. Javascript is used to add functionality to the products,cart and admin page",
+            "image":"https://caitlin-dalwai.github.io/img-/image%205.png"
+        }
+    ]
+
+}
