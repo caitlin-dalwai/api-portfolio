@@ -141,11 +141,11 @@
     "skills":[
         {
             "name":"HTML",
-            "image":"https://postimg.cc/sMh9WGcq"
+            "image":"https://i.postimg.cc/P566Bm8X/html-icon-F.png"
         },
         {
             "name":"CSS",
-            "image":"https://postimg.cc/Yhjxpsmp"
+            "image":"https://i.postimg.cc/qMxDGfJC/css-final.png"
         },
         {
             "name":"JavaScript",
@@ -153,7 +153,7 @@
         },
         {
             "name":"Bootstrap",
-            "image":"https://postimg.cc/Ff0ZMkk3"
+            "image":"https://i.postimg.cc/Jh22Bb16/Group-3.png"
         },
         {
             "name":"Vue3",
