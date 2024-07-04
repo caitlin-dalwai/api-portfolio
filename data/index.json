@@ -137,6 +137,32 @@
             "description":"This project is built using HTML, CSS and javascript. Javascript is used to add functionality to the products,cart and admin page",
             "image":"https://caitlin-dalwai.github.io/img-/image%205.png"
         }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"https://postimg.cc/sMh9WGcq"
+        },
+        {
+            "name":"CSS",
+            "image":"https://postimg.cc/Yhjxpsmp"
+        },
+        {
+            "name":"JavaScript",
+            "image":"https://i.postimg.cc/sDD73SC1/java-logo-1.png"
+        },
+        {
+            "name":"Bootstrap",
+            "image":"https://postimg.cc/Ff0ZMkk3"
+        },
+        {
+            "name":"Vue3",
+            "image":"https://i.postimg.cc/XNRjN6Ch/vue3-1-2.png"
+        },
+        {
+            "name":"GitHub",
+            "image":"https://i.postimg.cc/44hrVFHz/git-log.png"
+        }
     ]
 
 }
