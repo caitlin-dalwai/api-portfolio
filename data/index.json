@@ -94,6 +94,13 @@
 ],
 
 "projects":[
+    {  
+        "name":"Aniverse",
+        "github":"https://github.com/Joshua-Langeveldt/eomp_node.git",
+        "vercel":"https://aniverse-148b3.web.app/",
+        "description":"This is a partner ecommerce project, which makes use of node.js and mysql to achieve the backend and vue3.js to achieve the frontend",
+        "image":"https://caitlin-dalwai.github.io/port-imgsF/ani.png"
+    },
         {  
             "name":"Calculator",
             "github":"https://github.com/caitlin-dalwai/Calculator-JS.git",
