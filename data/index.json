@@ -101,6 +101,13 @@
         "description":"This is a partner ecommerce project, which makes use of node.js and mysql to achieve the backend and vue3.js to achieve the frontend",
         "image":"https://caitlin-dalwai.github.io/port-imgsF/ani.png"
     },
+    {  
+        "name":"E-commerce Website",
+        "github":"https://github.com/caitlin-dalwai/eCom-.git",
+        "vercel":"https://e-com-seven-zeta.vercel.app/HTML/admin.html",
+        "description":"This project is built using HTML, CSS and javascript. Javascript is used to add functionality to the products,cart and admin page",
+        "image":"https://caitlin-dalwai.github.io/img-/image%205.png"
+    },
         {  
             "name":"Calculator",
             "github":"https://github.com/caitlin-dalwai/Calculator-JS.git",
@@ -136,13 +143,6 @@
             "vercel":"https://swegga-tau.vercel.app/",
             "description":"This is a task where I replicated a webpage from scratch. This project is built using HTML, CSS and javaScript",
             "image":"https://caitlin-dalwai.github.io/img-/image%206.png"
-        },
-        {  
-            "name":"E-commerce Website",
-            "github":"https://github.com/caitlin-dalwai/eCom-.git",
-            "vercel":"https://e-com-seven-zeta.vercel.app/HTML/admin.html",
-            "description":"This project is built using HTML, CSS and javascript. Javascript is used to add functionality to the products,cart and admin page",
-            "image":"https://caitlin-dalwai.github.io/img-/image%205.png"
         }
     ],
     "skills":[
@@ -170,6 +170,32 @@
             "name":"GitHub",
             "image":"https://i.postimg.cc/6qfZdkyf/5847f98fcef1014c0b5e48c0-1-1.png"
         }
+    ],
+    "soft skills":[
+        {
+           "name":"listener",
+            "image":"https://caitlin-dalwai.github.io/port-imgsF/image%203%20(3).png" 
+        },
+        {
+           "name":"understanding",
+            "image":"https://caitlin-dalwai.github.io/port-imgsF/image%204%20(1).png" 
+        },
+        {
+            "name":"memory",
+             "image":"https://caitlin-dalwai.github.io/port-imgsF/image%205%20(2).png" 
+         },
+         {
+            "name":"problem solving",
+             "image":"https://caitlin-dalwai.github.io/port-imgsF/image%206%20(2).png" 
+         },
+         {
+            "name":"calm",
+             "image":"https://caitlin-dalwai.github.io/port-imgsF/image%207%20(1).png" 
+         },
+         {
+            "name":"good communication",
+             "image":"https://caitlin-dalwai.github.io/port-imgsF/image%208%20(1).png" 
+         }
     ]
 
 }
